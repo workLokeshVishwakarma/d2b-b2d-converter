@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: 0.3s;
+}
+
+body {
+    background-image: url("../img/binary-1254485_1280.png");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.LcH-100 {
+    min-height: 100vh;
+    max-height: auto;
+}
+
+.cusShaddow {
+    box-shadow: 2px 3px 19px 2px rgb(28, 27, 27);
+}
+
+.cusShaddow2 {
+    box-shadow: 0px 0px 10px 2px rgb(54, 133, 153);
+}
+
+.cusShaddow3 {
+    box-shadow: 2px 2px 5px 2px #1b1c1c;
+}
+
+.btnHover:hover {
+    letter-spacing: 0.05rem;
+    font-weight: bolder !important;
+}
